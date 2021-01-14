@@ -1,0 +1,65 @@
+2021-01-02 22:14:41,116 - ebanking -INFO - URL is opened
+2021-01-02 22:14:41,349 - ebanking -INFO - Entered username
+2021-01-02 22:14:41,399 - ebanking -INFO - Entered password
+2021-01-02 22:19:06,712 - ebanking -INFO - URL is opened
+2021-01-02 22:19:06,719 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-02 22:19:06,866 - ebanking -INFO - Entered username
+2021-01-02 22:19:06,913 - ebanking -INFO - Entered password
+2021-01-02 22:19:40,731 - ebanking -INFO - This is 3rd test case TC_AddCustomerTest_003
+2021-01-02 22:19:40,831 - ebanking -INFO - User name is provided
+2021-01-02 22:19:40,878 - ebanking -INFO - Passsword is provided
+2021-01-03 14:05:27,703 - ebanking -INFO - URL is opened
+2021-01-03 14:05:27,756 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-03 14:05:27,988 - ebanking -INFO - Entered username
+2021-01-03 14:05:28,035 - ebanking -INFO - Entered password
+2021-01-03 14:06:20,233 - ebanking -INFO - This is 3rd test case TC_AddCustomerTest_003
+2021-01-03 14:06:20,318 - ebanking -INFO - User name is provided
+2021-01-03 14:06:20,380 - ebanking -INFO - Passsword is provided
+2021-01-04 19:04:42,862 - ebanking -INFO - URL is opened
+2021-01-04 19:04:42,944 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-04 19:04:43,202 - ebanking -INFO - Entered username
+2021-01-04 19:04:43,415 - ebanking -INFO - Entered password
+2021-01-04 19:05:11,454 - ebanking -INFO - This is 3rd test case TC_AddCustomerTest_003
+2021-01-04 19:05:11,543 - ebanking -INFO - User name is provided
+2021-01-04 19:05:11,584 - ebanking -INFO - Passsword is provided
+2021-01-04 22:13:58,750 - ebanking -INFO - URL is opened
+2021-01-04 22:13:58,756 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-04 22:13:58,905 - ebanking -INFO - Entered username
+2021-01-04 22:13:58,955 - ebanking -INFO - Entered password
+2021-01-04 22:14:44,473 - ebanking -INFO - This is 3rd test case TC_AddCustomerTest_003
+2021-01-04 22:14:44,573 - ebanking -INFO - User name is provided
+2021-01-04 22:14:44,614 - ebanking -INFO - Passsword is provided
+2021-01-10 21:49:36,635 - ebanking -INFO - URL is opened
+2021-01-10 21:49:36,985 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-10 21:49:37,631 - ebanking -INFO - Entered username
+2021-01-10 21:49:37,675 - ebanking -INFO - Entered password
+2021-01-10 21:50:00,358 - ebanking -INFO - This is 3rd test case TC_AddCustomerTest_003
+2021-01-10 21:50:00,459 - ebanking -INFO - User name is provided
+2021-01-10 21:50:00,514 - ebanking -INFO - Passsword is provided
+2021-01-10 22:32:28,169 - ebanking -INFO - URL is opened
+2021-01-10 22:32:28,178 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-10 22:32:28,328 - ebanking -INFO - Entered username
+2021-01-10 22:32:28,371 - ebanking -INFO - Entered password
+2021-01-10 22:32:45,715 - ebanking -INFO - This is 3rd test case TC_AddCustomerTest_003
+2021-01-10 22:32:45,796 - ebanking -INFO - User name is provided
+2021-01-10 22:32:45,839 - ebanking -INFO - Passsword is provided
+2021-01-11 17:35:55,070 - ebanking -INFO - URL is opened
+2021-01-11 17:35:55,370 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-11 17:36:02,705 - ebanking -INFO - Entered username
+2021-01-11 17:36:02,756 - ebanking -INFO - Entered password
+2021-01-12 22:14:10,018 - ebanking -INFO - URL is opened
+2021-01-12 22:14:10,228 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-12 22:30:22,007 - ebanking -INFO - URL is opened
+2021-01-12 22:30:22,007 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-12 22:30:25,538 - ebanking -INFO - Entered username
+2021-01-12 22:30:25,750 - ebanking -INFO - Entered password
+2021-01-12 22:30:43,667 - ebanking -INFO - This is 3rd test case TC_AddCustomerTest_003
+2021-01-12 22:30:43,762 - ebanking -INFO - User name is provided
+2021-01-12 22:30:43,811 - ebanking -INFO - Passsword is provided
+2021-01-13 17:07:23,306 - ebanking -INFO - URL is opened
+2021-01-13 17:07:23,434 - ebanking -INFO - This is first test case TC_LoginTest_001
+2021-01-13 17:07:30,060 - ebanking -INFO - Entered username
+2021-01-13 17:07:30,246 - ebanking -INFO - Entered password
+2021-01-13 17:07:52,063 - ebanking -INFO - This is 3rd test case TC_AddCustomerTest_003
+2021-01-13 17:07:52,155 - ebanking -INFO - User name is provided
+2021-01-13 17:07:52,273 - ebanking -INFO - Passsword is provided
