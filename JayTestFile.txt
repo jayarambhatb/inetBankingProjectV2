@@ -7,7 +7,7 @@ git init ->Create an empty local repository  (no need ot execute this command ev
 git remote add origin "https://github.com/jayarambhatb/inetBankingProjectV2.git"  ...>Create or establish connection from 
 local to Github repository
 git status-->What re files ready to commit in get repository 
-git add -A -->Add all your files inot staging area
+git add -A -->Add all your files into staging area
 
 git config --global user.name "<user name given in github e.g. jayarambhatb>"  (no need ot execute this command every time, only first time)
 git config --global user.email "bhat28@rediffmail.com"  (no need ot execute this command every time, only first time)
@@ -15,3 +15,9 @@ git commit -m "this is my first commit"---> Commit all files into Git (local rep
 git status  -->(check status again )
 git push -u origin master   ---->(To push files from Git to Github repository)
 git pull origin master -->to pull files from Github to local-Git and workspace
+
+------------------------------
+Date :15-Jan-2021
+time 16:39
+Modified by :Jayarama bhat
+This part is modified locally in Eclipse to commit  back to Github.
