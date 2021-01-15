@@ -14,3 +14,4 @@ git config --global user.email "bhat28@rediffmail.com"  (no need ot execute this
 git commit -m "this is my first commit"---> Commit all files into Git (local repository)
 git status  -->(check status again )
 git push -u origin master   ---->(To push files from Git to Github repository)
+git pull origin master -->to pull files from Github to local-Git and workspace
